@@ -9,4 +9,4 @@ a connection is made, will wait for messages.
 Nodejs and npm are both required to run this server.
 
 Please run the following:
-`npx tsx echoServer_v3.ts`
+```npx tsx echoServer_v3.ts```
